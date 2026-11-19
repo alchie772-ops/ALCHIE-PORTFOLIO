@@ -1,0 +1,3 @@
+Place Alchie Fria's photo file named `avatar.png` in this exact same root folder alongside `index.html`, `style.css`, and `script.js`.
+
+When opened locally (`index.html`) or published via GitHub Pages (Deploy from a branch -> main -> / (root)), `<img src="avatar.png" ...>` will load automatically inside the hanging lanyard ID card.
